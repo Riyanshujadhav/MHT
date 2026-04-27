@@ -6,6 +6,7 @@ Backend: cd backend
 Frontend: cd frontend 
           npm run dev 
 web open http://localhost:5173/
+
 <img width="622" height="967" alt="image" src="https://github.com/user-attachments/assets/84060e88-1c70-4c7b-bc92-020abd02d90d" />
 <img width="601" height="992" alt="image" src="https://github.com/user-attachments/assets/3ff4b0f2-e5c3-4b3a-84ad-89c55a3122e6" />
 <img width="603" height="802" alt="image" src="https://github.com/user-attachments/assets/8a99f485-f08e-444d-9c39-14d5bc508b1d" />
